@@ -25,4 +25,6 @@ RUN python -m pip install -U pip && \
         matplotlib \
         pandas \
         sympy \
-        seaborn
+        seaborn \
+        sphinx \
+        tqdm

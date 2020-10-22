@@ -12,6 +12,8 @@ Scipy packages instaled:
 
 Additional python packages:
 * seaborn
+* sphinx
+* tqdm
 
 Texlive packages:
 * texlive
